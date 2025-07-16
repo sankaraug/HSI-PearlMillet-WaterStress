@@ -114,7 +114,6 @@ HSI-PearlMillet-WaterStress/
 - Sunita Choudhary – ICRISAT Support
 
 
-
 ## 📌 Notes
 
 - Pretrained models may be shared later depending on approval.
