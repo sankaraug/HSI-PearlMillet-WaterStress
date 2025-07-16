@@ -5,10 +5,10 @@ This folder contains the results and analysis figures referenced from the IEEE p
 ## Contents
 
 - `classification_accuracy.csv` – Accuracy, precision, recall of SOTA models
-- `spectral_signatures.png` – Pearl millet canopy reflectance curves (placeholder)
-- `niqe_comparison.png` – Band-wise NIQE before/after FastHyDe (placeholder)
+- `spectral_signatures.png` – Pearl millet canopy reflectance curves 
+- `niqe_comparison.png` – Band-wise NIQE before/after FastHyDe 
 - `dataset_split.csv` – Number of train/test samples for WW and WS
-- `performance_comparison.png` – Bar chart comparing model accuracies (placeholder)
+- `performance_comparison.png` – Table comparing model accuracies 
 
 ## Source
 
