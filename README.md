@@ -106,7 +106,7 @@ HSI-PearlMillet-WaterStress/
 
 
 
-## 👥 Contributors
+## Contributors
 
 - Dr. Adduru U.G. Sankararao – Dataset Lead
 - Sai Kiran – Dataset and Implementation
@@ -114,7 +114,7 @@ HSI-PearlMillet-WaterStress/
 - Sunita Choudhary – ICRISAT Support
 
 
-## 📌 Notes
+## Notes
 
 - Pretrained models may be shared later depending on approval.
 - Suggestions/Issues welcome via GitHub Issues.
