@@ -3,7 +3,7 @@
 This repository contains the dataset description, preprocessing workflow, benchmark model implementations, and performance results as described in the IEEE paper:
 
 **"UAV-Borne Hyperspectral Imaging Dataset of Pearl Millet Canopy Water Stress"**  
-[Springer DOI](https://doi.org/10.1007/978-3-031-74440-2_19) *(published in ICA 2024)*
+[IEEE](https://ieeexplore.ieee.org/document/9881337) *(published in ICA 2024)*
 
 
 
