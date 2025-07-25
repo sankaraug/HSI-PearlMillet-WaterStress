@@ -18,12 +18,11 @@ The dataset consists of **hyperspectral cubes of pearl millet canopies** under b
 
 
 
-📌 **Note:** Currently, we are providing access to **only a portion of the dataset**. 
+📌 **Note:** Currently, we are providing access to "**only a portion of the dataset**". 
 
 
 
-### **Reference**
-If you use this dataset, please cite:  
+### **Reference** 
 **A. U. G. Sankararao, P. Rajalakshmi, S. Kaliamoorthy, and S. Choudhary,  
 "Water Stress Detection in Pearl Millet Canopy with Selected Wavebands using UAV Based Hyperspectral Imaging and Machine Learning,"  
 2022 IEEE Sensors Applications Symposium (SAS), Sundsvall, Sweden, 2022, pp. 1-6,  
