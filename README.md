@@ -108,10 +108,10 @@ HSI-PearlMillet-WaterStress/
 
 ## Contributors
 
-- Dr. Adduru U.G. Sankararao – Dataset Lead
-- Sai Kiran – Dataset and Implementation
-- P. Rajalakshmi – Research Advisor
-- Sunita Choudhary – ICRISAT Support
+- Dr. Adduru U.G. Sankararao – IIT Hyderabad
+- Mr. Sai Kiran – IIT Hyderabad
+- Prof. P. Rajalakshmi – Research Advisor
+- Dr. Sunita Choudhary – Scientist, ICRISAT 
 
 
 ## Notes
