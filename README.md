@@ -83,7 +83,7 @@ HSI-PearlMillet-WaterStress/
 │   ├── preprocessing/
 │   ├── classification/
 │   └── utils/
-├── models/                # Trained model weights 
+├── models/                # Trained models
 ├── results/               # Graphs, OA scores, confusion matrices
 ├── LICENSE
 ├── CITATION.bib
