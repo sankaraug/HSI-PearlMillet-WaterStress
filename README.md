@@ -27,7 +27,7 @@ This repository contains the dataset description, preprocessing workflow, benchm
 
 Due to data size and controlled access requirements, the dataset is hosted on the **TiHAN server**.
 
-📝 **[Request Dataset Access](https://tihan.server.org/request-access)** 
+📝 **[Request Dataset Access](https://tihan.iith.ac.in/TiAND.html)** 
 
 > Access will be granted upon filling a form explaining your research purpose.
 
